@@ -10,14 +10,7 @@ Install [polymer-cli](https://github.com/Polymer/polymer-cli):
 
 
 ##### Setup
-    # Using CLI
-    mkdir shop
-    cd shop
-    polymer init shop
 
-    # Or cloning direct from GitHub
-    git clone https://github.com/Polymer/shop.git
-    cd shop
     bower install
 
 ### Start the development server
